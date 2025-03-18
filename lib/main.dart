@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'Problem01.dart';
 import 'ColorsOfMyLife.dart';
+import 'Problem02.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: 'Poppins',
       ),
-      home: const Problem01(),
+      // home: const Problem01(),
+      home: const Problem02(),
     );
   }
 }
