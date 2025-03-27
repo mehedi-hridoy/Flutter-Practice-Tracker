@@ -63,6 +63,9 @@ flutter:
     - assets/images/Rolls-Royce 1.jpg
     - assets/images/Rolls-Royce 2.jpg
     - assets/images/Rolls-Royce3.jpg
+    - assets/images/ai.png
+    - assets/images/blockchain.jpg
+    - assets/images/iot.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
