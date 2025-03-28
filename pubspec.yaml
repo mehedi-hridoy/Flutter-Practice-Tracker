@@ -68,6 +68,7 @@ flutter:
     - assets/images/iot.png
     - assets/images/City Life.jpg
     - assets/images/Pink Rose.jpg
+    - assets/images/Mehedi.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
