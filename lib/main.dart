@@ -37,7 +37,9 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: 'Poppins',
       ),
-      // home: const Problem01(),
+      // Uncomment the file which one you want to run from here.
+    
+      home: const Problem01(),
       // home: const Problem02(),
       // home: const Problem03(),
       // home: const Problem04(),
@@ -48,7 +50,7 @@ class MyApp extends StatelessWidget {
       // home: const Problem09(),
       // home: const Problem10(),
       // home: const Problem11(),
-      home: const Problem12(),
+      // home: const Problem12(),
       // home: const Problem13(),
       // home: const Problem14(),
       // home: const Problem15(),

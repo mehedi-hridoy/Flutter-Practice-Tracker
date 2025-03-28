@@ -75,6 +75,25 @@ flutter:
     - assets/images/City Life.jpg
     - assets/images/Pink Rose.jpg
     - assets/images/Mehedi.jpg
+    - assets/screens/1.png
+    - assets/screens/2.gif
+    - assets/screens/3.png
+    - assets/screens/4.png
+    - assets/screens/5.gif
+    - assets/screens/6.png
+    - assets/screens/7.png
+    - assets/screens/08.gif
+    - assets/screens/9.png
+    - assets/screens/10.gif
+    - assets/screens/11.png
+    - assets/screens/12.png
+    - assets/screens/13.png
+    - assets/screens/14.gif
+    - assets/screens/15.gif
+    - assets/screens/16.gif
+    - assets/screens/17.gif
+    - assets/screens/18.gif
+    - assets/screens/19.gif
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
