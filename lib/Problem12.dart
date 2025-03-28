@@ -17,7 +17,7 @@ class Problem12 extends StatelessWidget {
           height: 300,
           width: 300,
           decoration: BoxDecoration(
-            color: Colors.grey,
+            color: const Color.fromARGB(255, 214, 19, 133),
             borderRadius: BorderRadius.circular(20), // Rounded corners
             boxShadow: [
               BoxShadow(
