@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  image_picker: ^0.8.7+4
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
@@ -40,6 +40,10 @@ dev_dependencies:
     sdk: flutter
   intl: ^0.18.0  # For formatting date/time
   timezone: ^0.9.2  # For handling Dhaka time zone
+
+
+
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
