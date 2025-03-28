@@ -24,7 +24,7 @@ This section contains the problem statements along with their solutions in the f
 > *[Create a Flutter app with a button that, when pressed, changes the text on the screen to "Button Pressed". Use a StatefulWidget for this.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/2.png)  
+![Solution](./assets/screens/2.gif)  
 
 ### Problem 3:
 **Problem Statement:**
@@ -45,7 +45,7 @@ This section contains the problem statements along with their solutions in the f
 > *[Create an app with two screens. The first screen should have a button that navigates to the second screen. The second screen should have a back button that returns to the first screen.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/5.png)  
+![Solution](./assets/screens/5.gif)  
 
 ### Problem 6:
 **Problem Statement:**
@@ -66,7 +66,7 @@ This section contains the problem statements along with their solutions in the f
 > *[Design an app with a navigation drawer. The drawer should have multiple options, and each option should navigate to a different screen using a Navigator.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/8.png)  
+![Solution](./assets/screens/8.gif)  
 
 ### Problem 9:
 **Problem Statement:**
@@ -80,7 +80,7 @@ This section contains the problem statements along with their solutions in the f
 > *[Design an app with a bottom navigation bar that contains three tabs (Home, Search, Profile). Each tab should show different content (like images, text, etc.). Ensure the transition between tabs is smooth.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/10.png)  
+![Solution](./assets/screens/10.gif)  
 
 ### Problem 11:
 **Problem Statement:**
@@ -108,42 +108,42 @@ This section contains the problem statements along with their solutions in the f
 > *[Build a list where each item can be swiped to reveal additional options like "Delete" or "Edit".]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/14.png)  
+![Solution](./assets/screens/14.gif)  
 
 ### Problem 15:
 **Problem Statement:**
 > *[Create an app where the user can pick a date and a time. Display the selected date and time on the screen.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/15.png)  
+![Solution](./assets/screens/15.gif)  
 
 ### Problem 16:
 **Problem Statement:**
 > *[Design a simple app where a container changes its size, color, and shape when a button is clicked, using animation.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/16.png)  
+![Solution](./assets/screens/16.gif)  
 
 ### Problem 17:
 **Problem Statement:**
 > *[Create a simple settings screen with a toggle switch that enables or disables a feature (like dark mode).]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/17.png)  
+![Solution](./assets/screens/17.gif)  
 
 ### Problem 18:
 **Problem Statement:**
 > *[Create a profile page with a circular avatar. Allow the user to choose an image from their gallery (use ImagePicker package).]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/18.png)  
+![Solution](./assets/screens/18.gif)  
 
 ### Problem 19:
 **Problem Statement:**
 > *[Create a side drawer that slides in from the left when a button is pressed, with custom animation.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/19.png)  
+![Solution](./assets/screens/19.gif)  
 
 ## Purpose
 - Practice Flutter development systematically.
