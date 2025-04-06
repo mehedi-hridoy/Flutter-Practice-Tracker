@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 class Problem18 extends StatefulWidget {
-  const Problem18({Key? key}) : super(key: key);
+  const Problem18({super.key});
 
   @override
   _Problem18State createState() => _Problem18State();

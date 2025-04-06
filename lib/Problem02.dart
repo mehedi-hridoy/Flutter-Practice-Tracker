@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ColorsOfMyLife.dart'; // Import custom colors
+// Import custom colors
 
 class Problem02 extends StatefulWidget {
   const Problem02({super.key});

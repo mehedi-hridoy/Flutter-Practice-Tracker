@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Problem19 extends StatefulWidget {
-  const Problem19({Key? key}) : super(key: key);
+  const Problem19({super.key});
 
   @override
   _Problem19State createState() => _Problem19State();

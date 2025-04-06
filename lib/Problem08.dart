@@ -237,6 +237,8 @@ class ModelDetailScreen extends StatelessWidget {
 
 // Configure Screen
 class ConfigureScreen extends StatelessWidget {
+  const ConfigureScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

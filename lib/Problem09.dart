@@ -22,12 +22,12 @@ class AnimatedCardWidget extends StatefulWidget {
   final String description;
 
   const AnimatedCardWidget({
-    Key? key,
+    super.key,
     required this.imageUrl,
     required this.title,
     required this.subtitle,
     required this.description,
-  }) : super(key: key);
+  });
 
   @override
   _AnimatedCardWidgetState createState() => _AnimatedCardWidgetState();
@@ -124,7 +124,7 @@ class _AnimatedCardWidgetState extends State<AnimatedCardWidget> {
 }
 
 class AnimatedCardListView extends StatelessWidget {
-  const AnimatedCardListView({Key? key}) : super(key: key);
+  const AnimatedCardListView({super.key});
 
   @override
   Widget build(BuildContext context) {
