@@ -66,7 +66,7 @@ This section contains the problem statements along with their solutions in the f
 > *[Design an app with a navigation drawer. The drawer should have multiple options, and each option should navigate to a different screen using a Navigator.]*
 
 **Solution Screenshot:**
-![Solution](./assets/screens/8.gif)  
+![Solution](./assets/screens/08.gif)  
 
 ### Problem 9:
 **Problem Statement:**
